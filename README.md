@@ -23,17 +23,17 @@ Create a basic student registration form using HTML. The form should collect the
 ---
 
 ## Code
-![System Check UI](assets/html.png)
+![System Check UI](asseSts/html.png)
 
-![System Check UI](assets/styles.png)
+![System Check UI](asseSts/styles.png)
 
-![System Check UI](assets/styles1.png)
+![System Check UI](asseSts/styles2.png)
 
 OUTPUT - 
 
-![System Check UI](assets/output.png)
+![System Check UI](asseSts/output.png)
 
-![System Check UI](assets/output2.png)
+![System Check UI](asseSts/output2.png)
 
 
 
