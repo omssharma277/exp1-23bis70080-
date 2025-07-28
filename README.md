@@ -1,4 +1,4 @@
-# Student Registration Form with HTML5 Validation
+  # Student Registration Form with HTML5 Validation
 
 ## Aim
 
@@ -23,17 +23,17 @@ Create a basic student registration form using HTML. The form should collect the
 ---
 
 ## Code
-![System Check UI](asseSts/html.png)
+![System Check UI](assests/html.png)
 
-![System Check UI](asseSts/styles.png)
+![System Check UI](assests/styles.png)
 
-![System Check UI](asseSts/styles2.png)
+![System Check UI](assests/styles2.png)
 
 OUTPUT - 
 
-![System Check UI](asseSts/output.png)
+![System Check UI](assests/output.png)
 
-![System Check UI](asseSts/output2.png)
+![System Check UI](assests/output2.png)
 
 
 
